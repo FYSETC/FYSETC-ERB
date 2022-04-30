@@ -1,9 +1,9 @@
 # FYSETC-ERB
 This is dedicated controller board for VORON ERCF
 
-![](images\board1.png)
+![](images/board1.png)
 
-![](images\board2.png)
+![](images/board2.png)
 
 ## Hardware
 
@@ -13,7 +13,7 @@ There are schemetic, silk and dwg file in `Hardware` folder.
 
 ### Compile options
 
-![](images\makemenuconfig.png)
+![](images/makemenuconfig.png)
 
 ### Firmware upload
 
@@ -25,9 +25,9 @@ Step 3: Click `BOOTSEL` button and release `RST` button
 
 Step 4: `RPI-RP2` folder will show up on your computer, copy your built firmware `klipper.uf2` to the folder.
 
-![](images\upload1.png)
+![](images/upload1.png)
 
-![](images\upload.png)
+![](images/upload.png)
 
 ### Configuration
 
