@@ -1,4 +1,5 @@
 # FYSETC-ERB
+
 This is dedicated controller board for VORON ERCF
 
 ![](images/board1.png)
@@ -34,4 +35,9 @@ Step 5: `RPI-RP2` folder will show up on your computer, copy your built firmware
 ### Configuration
 
 See `ercf_hardware.cfg` in this repository `config` folder.
+
+### Known issues
+
+The mark of GPIO24 and GPIO25 is swapped, check the silk file [here](https://github.com/FYSETC/FYSETC-ERB/blob/main/hardware/Silk%20Fixed.pdf).
+
 
