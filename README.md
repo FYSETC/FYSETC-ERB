@@ -4,8 +4,6 @@ This is dedicated controller board for VORON ERCF
 
 ![](images/board1.png)
 
-![](images/board2.png)
-
 ## Features
 
 1. Base on popular RP2040 chip, cheep,available
