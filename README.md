@@ -20,7 +20,7 @@ There are schemetic, silk and dwg file in `Hardware` folder.
 
 ### Compile options
 
-![](images/makemenuconfig.png)
+![]([makemenuconfig](https://user-images.githubusercontent.com/46523240/250621155-6161226d-e69b-42d0-9d05-fd7bc45cc3c5.png))
 
 ### Firmware upload
 
