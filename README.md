@@ -42,10 +42,15 @@ make
 #### 1.With your windows PC
 
 Step 1: Connect 24V (Power on the board)
-Step 2: Connect USB-C cable to your Windows PC
-Step 3: Push an hold BOOTSEL button
-Step 4: Click RST button
-Step 5: Release RST and BOOTSEL button at the same time
+
+Step 2: Connect USB-C cable to your Klipper device (usually Raspberry Pi)
+
+Step 3: Push and hold the BOOTSEL button
+
+Step 4: Push the RST button and hold 0.5 seconds
+
+Step 5: Release the RST button, after 3 seconds, Release the bootsel button
+
 Step 6: `RPI-RP2` folder will show up on your computer, copy your built firmware `klipper.uf2` to the folder.
 
 ![](images/upload1.png)
@@ -60,10 +65,14 @@ https://github.com/FYSETC/FYSETC-ERB/issues/2#issuecomment-1618902635
 ##### Connecting the board and bring it into flash mode
 
 Step 1: Connect 24V (Power on the board)
-Step 2: Connect USB-C cable to your klipper device (usually Raspberry Pi)
-Step 3: Push an hold BOOTSEL button
-Step 4: Click RST button
-Step 5: Release RST and BOOTSEL button at the same time
+
+Step 2: Connect USB-C cable to your Klipper device (usually Raspberry Pi)
+
+Step 3: Push and hold the BOOTSEL button
+
+Step 4: Push the RST button and hold 0.5 seconds
+
+Step 5: Release the RST button, after 3 seconds, Release the bootsel button
 
 Verify your device is in boot mode connected by running the following command:
 
