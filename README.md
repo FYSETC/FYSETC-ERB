@@ -58,6 +58,7 @@ Thanks for mk-maddin's work:
 https://github.com/FYSETC/FYSETC-ERB/issues/2#issuecomment-1618902635
 
 ##### Connecting the board and bring it into flash mode
+
 Step 1: Connect 24V (Power on the board)
 Step 2: Connect USB-C cable to your klipper device (usually Raspberry Pi)
 Step 3: Push an hold BOOTSEL button
