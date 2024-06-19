@@ -1,4 +1,4 @@
-![](/images/兔子主板V2.45.png)
+![erb](images/ERB_V2.0_4.png)
 
 # Introduction
 
