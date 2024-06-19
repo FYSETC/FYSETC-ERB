@@ -1,16 +1,19 @@
-# FYSETC-ERB
+![](/images/兔子主板V2.45.png)
 
-This is dedicated controller board for VORON ERCF
+# Introduction
 
-![](images/board1.png)
+ERB V2 is a 3D printer multi-color control board based on RP2040, mainly used in Enraged Rabbit project. Based on V1, CANBUS connection is added, and the terminal connection method and layout are readjusted to better meet the needs of Enraged Rabbit V2.
 
 ## Features
 
-1. Base on popular RP2040 chip, cheep,available
-
-2. Power management chip, comparing to LDO chip, less heat, more powerful, more steady
-
-3. USB type-C interface and more extra pins out.
+- MCU RP2040 
+- 28V Input Max，5V@3A
+- USB & CANBUS interface
+- 2 x TMC2209 Onboard
+- 12 x IO for gate sensors/switch
+- Onboard integrated heat sink
+- 5V RGB，Servo supported
+- Power supply/CAN integrated interface for easy connection
 
 ## Hardware
 
