@@ -19,6 +19,9 @@ ERB V2 is a 3D printer multi-color control board based on RP2040, mainly used in
 
 There are schemetic, silk and dwg file in `Hardware` folder.
 
+### Pinout
+![img](images/ERB_V2_PINOUT_00.jpg)
+
 ## Firmware
 
 ### Compile and upload
