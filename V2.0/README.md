@@ -52,9 +52,11 @@ make menuconfig
 Select the following menuconfig settings
 
 Use USB communication
+
 ![image-20240619172600522](images/ERBv2_menuconfig_USB.png)
 
 Use CANBUS communication
+
 ![image-20240619183021929](images/ERBv2_menuconfig_CAN.png)
 
 And create and upload the firmware files by running the following:
@@ -71,8 +73,24 @@ You should be able to see it as usual klipper device within
 ```shell
 ls /dev/serial/by-id
 ```
-
 ### Configuration
 
 See `ercf_hardware.cfg` in this repository `config` folder.
+
+---------------------------------------------------
+
+> [!TIP]
+> We recommend using the katakulpt bootloader, whether you use USB or CANBUS communication. This can avoid many strange problems.
+> 
+> Configuration of the katakulpt bootloader:
+> 
+> ![ERBv2_katakulpt_menuconfig_USB](images/ERBv2_katakulpt_menuconfig_USB.png)
+> ![ERBv2_katakulpt_menuconfig_CAN](images/ERBv2_katakulpt_menuconfig_CAN.png)
+> 
+> Configuration of klipper using katakulpt:
+> 
+> ![ERBv2_menuconfig_16kb_USB](images/ERBv2_menuconfig_16kb_USB.png)
+> ![ERBv2_menuconfig_16kb_CAN](images/ERBv2_menuconfig_16kb_CAN.png)
+
+
 
